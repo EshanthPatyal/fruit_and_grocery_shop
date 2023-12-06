@@ -10,7 +10,7 @@ function CategoriesAPI() {
         const getCategories = async () => {
             try {
                 setLoading(true); // Set loading to true before making the request
-                const res = await axios.get('/api/category');
+                const res = await axios.get('https://confused-skirt-tick.cyclic.app/api/category');
                 setCategories(res.data);
             } catch (error) {
                 console.error('Error fetching categories:', error);

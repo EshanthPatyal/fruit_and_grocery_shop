@@ -13,7 +13,7 @@ function UserAPI(token) {
             try {
                 setLoading(true); // Set loading to true before making the request
 
-                const res = await axios.get('/user/infor', {
+                const res = await axios.get('https://confused-skirt-tick.cyclic.app/user/infor', {
                     headers: { Authorization: token },
                 });
 

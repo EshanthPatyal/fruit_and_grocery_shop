@@ -65,28 +65,23 @@
     "Team": [
       {
         "img": "images/team/01.jpeg",
-        "name": "Eshanth Patyal",
-        "job": "Project Manager"
+        "name": "Eshanth Patyal"
       },
       {
         "img": "images/team/02.jpg",
-        "name": "Harsh Gupta",
-        "job": "Back-End Dev"
+        "name": "Harsh Gupta"
       },
       {
         "img": "images/team/03.jpeg",
-        "name": "Yash R Khandelwal",
-        "job": "Back-End Dev"
+        "name": "Yash R Khandelwal"
       },
       {
         "img": "images/team/04.jpeg",
-        "name": "Harsh Agarwal",
-        "job": "Front-End Dev"
+        "name": "Harsh Agarwal"
       },
       {
         "img": "images/team/05.jpeg",
-        "name": "Hardik Parakh",
-        "job": "Front-End Dev"
+        "name": "Hardik Parakh"
       }
     ]
   }
